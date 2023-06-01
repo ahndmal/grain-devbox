@@ -1,0 +1,16 @@
+import String from "string"
+import Option from "option"
+import Number from "number"
+import Array from "array"
+
+
+let name = "Vasyl"
+
+let person = ("Ignaat", 52, "Kyiv")
+
+let phrase = "lorem ipsum dolor sit"
+
+let words = String.split(" ", phrase)
+
+
+print(words)
